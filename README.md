@@ -7,3 +7,9 @@ In this game you will play either using multiple or single player mode with comp
 You will find the cpp code [here](./memory_game.cpp)
 
 And the complied file if you don't have a cpp compiler [here](./memory_game.exe)
+
+<br></br>
+
+<p align="center">
+  <img src="./memory_game.png" width="450" title="memory_game">
+</p>
